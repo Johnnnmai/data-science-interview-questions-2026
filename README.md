@@ -2,6 +2,8 @@
 
 Ten practice questions for data scientist interviews, picked from the 100-question Valenx Press Data Science Interview Question Bank. They cover the five areas DS interview loops tend to test: statistics and probability, A/B testing and experimentation, product metrics, SQL, and machine learning. They are a mix of Entry, Mid and Senior levels.
 
+**Weekly drill packs:** [Valenx Pass](https://valenx.org/go/pass-y?utm_source=github&utm_campaign=data-science-interview-questions-2026&utm_content=readme), $79/yr, a new drill pack every Monday, cancel anytime.
+
 Each question comes with a short hint, not a full answer. Try your own answer first, then use the hint to see if you covered the key idea.
 
 **Contents:** [How to practice](#how-to-practice) · [The 10 questions](#the-10-questions) · [Get the full bank](#want-the-full-answers) · [License](#license)
