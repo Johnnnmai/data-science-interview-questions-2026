@@ -74,7 +74,7 @@ The full Data Science Interview Question Bank has 100 graded questions with mode
 - **A new drill pack every Monday:** questions, scoring rubrics and a practice plan. Week 0 arrives as soon as you join.
 - **Data science track:** data science drops start in Week 14 of the Pass calendar (Monday, Feb 8, 2027). Until then, the weekly drops cover AI engineering and MCP topics.
 - **Written answers to your questions:** reply to your receipt email and we answer in writing. No live calls.
-- **$19/month or $79/year.** Cancel anytime. Full refund within 7 days of your first payment.
+- **$19/month or $79/year.** Cancel anytime.
 
 **[Join Valenx Interview Pass](https://valenx.org/pass?utm_source=github&utm_medium=repo&utm_campaign=ds_sample)**
 
