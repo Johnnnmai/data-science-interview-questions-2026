@@ -78,7 +78,7 @@ The full Data Science Interview Question Bank has 100 graded questions with mode
 - **Written answers to your questions:** reply to your receipt email and we answer in writing. No live calls.
 - **$19/month or $79/year.** Cancel anytime.
 
-**[Join Valenx Interview Pass](https://valenx.org/pass?utm_source=github&utm_medium=repo&utm_campaign=ds_sample)**
+**[Join Valenx Interview Pass](https://valenx.org/pass?utm_source=github&utm_medium=repo&utm_campaign=ds_sample&utm_content=data-science-interview-questions-2026_L81)**
 
 ## License
 © 2026 Valenx Press. This work is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may share it unchanged, with credit to The Valenx Press team, for non-commercial use. You may not sell it or publish modified versions.
